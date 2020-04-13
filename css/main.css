@@ -1807,7 +1807,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff29ff;
+  background: #abffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2647,12 +2647,12 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/background.png");
+  background: url("/images/top.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-opacity: 0.4;
+  opacity: 0.4;
 }
 .header {
   background: url("/images/top.png") none repeat scroll !important;
